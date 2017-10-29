@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="hola_mundo">Hola Mundo!!</string>
+    <string name="edit_text">ingresar texto personalizado</string>
+    <string name="button1">ingresar texto personalizado</string>
+    <string name="button2">ingresar texto fijo</string>
+    <string name="button3">Enviar Toast</string>
+    <string name="button4">Cambiar Actividad</string>
+    <string name="button5">Regresar a Actividad 1</string>
+    <string name="button6">Enviar informacion Actividad 3</string>
+    <string name="button7">Regresar Actividad 2</string>
+    <string name="edit_text2">Ingresar Texto a Enviar</string>
+    <string name="title_activity_second">Segunda Actividad</string>
+    <string name="button8">Lista Sencilla</string>
+    <string name="button9">Lista Personalizada</string>
+    <string name="button10">Ir a WebView</string>
+    <string name="text2">This is the second Activity</string>
+    <string name="text3">This is the Third Activity</string>
+    <string name="text4">This is the fourth Activity</string>
+</resources>

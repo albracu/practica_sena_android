@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="hola_mundo">Hello World!!</string>
+    <string name="edit_text">Enter Custom Text</string>
+    <string name="button1">Enter Custom Text</string>
+    <string name="button2">Enter fixed Text</string>
+    <string name="button3">Send Toast</string>
+    <string name="button4">Change activity</string>
+    <string name="button5">Return activity 1</string>
+    <string name="button6">pass information to activity</string>
+    <string name="button7">return activity 2</string>
+    <string name="edit_text2">Put text to send</string>
+    <string name="title_activity_second">Second Activity</string>
+    <string name="button8">simple list</string>
+    <string name="button9">custom list</string>
+    <string name="button10">web view</string>
+    <string name="text2">This is the second Activity</string>
+    <string name="text3">This is the Third Activity</string>
+    <string name="text4">This is the fourth Activity</string>
+</resources>
